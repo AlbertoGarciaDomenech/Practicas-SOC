@@ -1,0 +1,1584 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="1" title="Song" type="string" />
+    </attributes>
+    <attributes class="node" mode="static">
+      <attribute id="0" title="artist_id" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>24/01/2021</lastmodified>
+    </meta>
+    <nodes>
+      <node id="Dinah Washington" label="Dinah Washington">
+        <attvalues>
+          <attvalue for="0" value="32LHRiof0sa4taYew9i3Fa" />
+        </attvalues>
+      </node>
+      <node id="Brook Benton" label="Brook Benton">
+        <attvalues>
+          <attvalue for="0" value="2ttm3uT0N1RN7vwKv1pQgh" />
+        </attvalues>
+      </node>
+      <node id="Carlos Santana" label="Carlos Santana">
+        <attvalues>
+          <attvalue for="0" value="7yGQgQiiKpg2k00JXf8hJk" />
+        </attvalues>
+      </node>
+      <node id="Buddy Miles" label="Buddy Miles">
+        <attvalues>
+          <attvalue for="0" value="2E9nO9Zav9FjjlFVVtMWdw" />
+        </attvalues>
+      </node>
+      <node id="Diana Ross" label="Diana Ross">
+        <attvalues>
+          <attvalue for="0" value="3MdG05syQeRYPPcClLaUGl" />
+        </attvalues>
+      </node>
+      <node id="Marvin Gaye" label="Marvin Gaye">
+        <attvalues>
+          <attvalue for="0" value="3koiLjNrgRTNbOwViDipeA" />
+        </attvalues>
+      </node>
+      <node id="Marvin Hamlisch" label="Marvin Hamlisch">
+        <attvalues>
+          <attvalue for="0" value="1VN38ZSdtQnHLa8PfTTKZD" />
+        </attvalues>
+      </node>
+      <node id="Carly Simon" label="Carly Simon">
+        <attvalues>
+          <attvalue for="0" value="4FtSnMlCVxCswABUmdhwpm" />
+        </attvalues>
+      </node>
+      <node id="Otis Redding" label="Otis Redding">
+        <attvalues>
+          <attvalue for="0" value="60df5JBRRPcnSpsIMxxwQm" />
+        </attvalues>
+      </node>
+      <node id="Carla Thomas" label="Carla Thomas">
+        <attvalues>
+          <attvalue for="0" value="1QAGLCom3FHTTiuRFsjzOj" />
+        </attvalues>
+      </node>
+      <node id="Ella Fitzgerald" label="Ella Fitzgerald">
+        <attvalues>
+          <attvalue for="0" value="5V0MlUE1Bft0mbLlND7FJz" />
+        </attvalues>
+      </node>
+      <node id="The Paul Smith Quartet" label="The Paul Smith Quartet">
+        <attvalues>
+          <attvalue for="0" value="10hbAHHJmvhFi8UOcYoiC3" />
+        </attvalues>
+      </node>
+      <node id="M" label="M">
+        <attvalues>
+          <attvalue for="0" value="4ZYjW9vY2BTk1er3xomkwI" />
+        </attvalues>
+      </node>
+      <node id="Robin Scott" label="Robin Scott">
+        <attvalues>
+          <attvalue for="0" value="5UQO8IQ2YE4eRUrGtHygB8" />
+        </attvalues>
+      </node>
+      <node id="The Dawn" label="The Dawn">
+        <attvalues>
+          <attvalue for="0" value="5z348neb55aaKyQhVgqEvS" />
+        </attvalues>
+      </node>
+      <node id="Tony Orlando &amp; Dawn" label="Tony Orlando &amp; Dawn">
+        <attvalues>
+          <attvalue for="0" value="72NXpYBIaTfEeAAsxXLs0P" />
+        </attvalues>
+      </node>
+      <node id="Patsy Cline" label="Patsy Cline">
+        <attvalues>
+          <attvalue for="0" value="7dNsHhGeGU5MV01r06O8gK" />
+        </attvalues>
+      </node>
+      <node id="The Jordanaires" label="The Jordanaires">
+        <attvalues>
+          <attvalue for="0" value="6CXezToiGS8K6jr9kr8Muv" />
+        </attvalues>
+      </node>
+      <node id="Kris Kristofferson" label="Kris Kristofferson">
+        <attvalues>
+          <attvalue for="0" value="0vYQRW5LIDeYQOccTviQNX" />
+        </attvalues>
+      </node>
+      <node id="Rita Coolidge" label="Rita Coolidge">
+        <attvalues>
+          <attvalue for="0" value="1vnIL4DMlivP55ioM6KitW" />
+        </attvalues>
+      </node>
+      <node id="Ian Lloyd" label="Ian Lloyd">
+        <attvalues>
+          <attvalue for="0" value="1imvLPBvQHkf3PN8wKz5zg" />
+        </attvalues>
+      </node>
+      <node id="Stories" label="Stories">
+        <attvalues>
+          <attvalue for="0" value="31U8n9SSMOKaUcfi4KnYVT" />
+        </attvalues>
+      </node>
+      <node id="Ambrosia" label="Ambrosia">
+        <attvalues>
+          <attvalue for="0" value="0J2Ej2rMQyqaUX3G6MUISw" />
+        </attvalues>
+      </node>
+      <node id="Alan Parsons" label="Alan Parsons">
+        <attvalues>
+          <attvalue for="0" value="6HpZkC8GUktP9utE6OPWZG" />
+        </attvalues>
+      </node>
+      <node id="Rufus" label="Rufus">
+        <attvalues>
+          <attvalue for="0" value="3MCjwjfIor5FkK3h639qkW" />
+        </attvalues>
+      </node>
+      <node id="Chaka Khan" label="Chaka Khan">
+        <attvalues>
+          <attvalue for="0" value="6mQfAAqZGBzIfrmlZCeaYT" />
+        </attvalues>
+      </node>
+      <node id="Tammi Terrell" label="Tammi Terrell">
+        <attvalues>
+          <attvalue for="0" value="75jNCko3SnEMI5gwGqrbb8" />
+        </attvalues>
+      </node>
+      <node id="Them" label="Them">
+        <attvalues>
+          <attvalue for="0" value="5BaHqGtf6UAZnHfqdPaTDA" />
+        </attvalues>
+      </node>
+      <node id="Van Morrison" label="Van Morrison">
+        <attvalues>
+          <attvalue for="0" value="44NX2ffIYHr6D4n7RaZF7A" />
+        </attvalues>
+      </node>
+      <node id="Johnny Mathis" label="Johnny Mathis">
+        <attvalues>
+          <attvalue for="0" value="21LGsW7bziR4Ledx7WZ1Wf" />
+        </attvalues>
+      </node>
+      <node id="Orchestra under the direction of Glenn Osser" label="Orchestra under the direction of Glenn Osser">
+        <attvalues>
+          <attvalue for="0" value="6qhsCSpzzq8SppGRCDDrJE" />
+        </attvalues>
+      </node>
+      <node id="Five Flights Up" label="Five Flights Up">
+        <attvalues>
+          <attvalue for="0" value="1mGmFm3MIktE61wZrk8o7X" />
+        </attvalues>
+      </node>
+      <node id="J.B. Bingham" label="J.B. Bingham">
+        <attvalues>
+          <attvalue for="0" value="1FEqzfbqSjukcneHuoEOcB" />
+        </attvalues>
+      </node>
+      <node id="Kim Weston" label="Kim Weston">
+        <attvalues>
+          <attvalue for="0" value="71pUA2TXf3JHUPUgsjLtuL" />
+        </attvalues>
+      </node>
+      <node id="Ashford &amp; Simpson" label="Ashford &amp; Simpson">
+        <attvalues>
+          <attvalue for="0" value="2EURsXo9qlt1aMWlviGCRi" />
+        </attvalues>
+      </node>
+      <node id="James Simpson" label="James Simpson">
+        <attvalues>
+          <attvalue for="0" value="2iphCH37GnHODxVanwu4Wf" />
+        </attvalues>
+      </node>
+      <node id="Don Gardner" label="Don Gardner">
+        <attvalues>
+          <attvalue for="0" value="6VUHw8hklcAHLWNoeKbXIY" />
+        </attvalues>
+      </node>
+      <node id="Dee Dee Ford" label="Dee Dee Ford">
+        <attvalues>
+          <attvalue for="0" value="4IhJX6phlNu2LdqiO4Ic4r" />
+        </attvalues>
+      </node>
+      <node id="Etta James" label="Etta James">
+        <attvalues>
+          <attvalue for="0" value="0iOVhN3tnSvgDbcg25JoJb" />
+        </attvalues>
+      </node>
+      <node id="Harvey Fuqua" label="Harvey Fuqua">
+        <attvalues>
+          <attvalue for="0" value="0F577kU2Hk9gr4mAzK60tZ" />
+        </attvalues>
+      </node>
+      <node id="Cliff Richard" label="Cliff Richard">
+        <attvalues>
+          <attvalue for="0" value="2nvKpWcP8etYTq4JrRiUiy" />
+        </attvalues>
+      </node>
+      <node id="The Shadows" label="The Shadows">
+        <attvalues>
+          <attvalue for="0" value="03hfAxVdAWj7kxDnSG0fLD" />
+        </attvalues>
+      </node>
+      <node id="Paul Revere &amp; The Raiders" label="Paul Revere &amp; The Raiders">
+        <attvalues>
+          <attvalue for="0" value="32HPpJAhgnGPT3V7UOggzi" />
+        </attvalues>
+      </node>
+      <node id="The Raiders" label="The Raiders">
+        <attvalues>
+          <attvalue for="0" value="6VGkOHRnGhPYrzy9qM7CVj" />
+        </attvalues>
+      </node>
+      <node id="Willie Henderson And The Soul Explosions" label="Willie Henderson And The Soul Explosions">
+        <attvalues>
+          <attvalue for="0" value="0Wv3XjkXdPTv4kzRIenuRr" />
+        </attvalues>
+      </node>
+      <node id="Willie Henderson" label="Willie Henderson">
+        <attvalues>
+          <attvalue for="0" value="3W7NhfglFlnKRRMfakixbT" />
+        </attvalues>
+      </node>
+      <node id="The Soul Explosions" label="The Soul Explosions">
+        <attvalues>
+          <attvalue for="0" value="02RRYknv2Z92zY1QRa2Blt" />
+        </attvalues>
+      </node>
+      <node id="The Supremes" label="The Supremes">
+        <attvalues>
+          <attvalue for="0" value="57bUPid8xztkieZfS7OlEV" />
+        </attvalues>
+      </node>
+      <node id="Four Tops" label="Four Tops">
+        <attvalues>
+          <attvalue for="0" value="7fIvjotigTGWqjIz6EP1i4" />
+        </attvalues>
+      </node>
+      <node id="Big Brother &amp; The Holding Company" label="Big Brother &amp; The Holding Company">
+        <attvalues>
+          <attvalue for="0" value="4J69yWrKwWJgjv3DKTZcGo" />
+        </attvalues>
+      </node>
+      <node id="Janis Joplin" label="Janis Joplin">
+        <attvalues>
+          <attvalue for="0" value="4NgfOZCL9Ml67xzM0xzIvC" />
+        </attvalues>
+      </node>
+      <node id="The Miracles" label="The Miracles">
+        <attvalues>
+          <attvalue for="0" value="6TqQLejnHXMGr7KcegxUND" />
+        </attvalues>
+      </node>
+      <node id="Billy Griffin" label="Billy Griffin">
+        <attvalues>
+          <attvalue for="0" value="1C4zTmHRkm3XRJSex4vTiZ" />
+        </attvalues>
+      </node>
+      <node id="Stone Poneys" label="Stone Poneys">
+        <attvalues>
+          <attvalue for="0" value="2X9nnux4eS3CFBDSjcnoBQ" />
+        </attvalues>
+      </node>
+      <node id="Linda Ronstadt" label="Linda Ronstadt">
+        <attvalues>
+          <attvalue for="0" value="1sXbwvCQLGZnaH0Jp2HTVc" />
+        </attvalues>
+      </node>
+      <node id="The Whispers" label="The Whispers">
+        <attvalues>
+          <attvalue for="0" value="2XzHxDFTNywDd5ReMhgxkg" />
+        </attvalues>
+      </node>
+      <node id="Wallace “Scotty” Scott" label="Wallace “Scotty” Scott">
+        <attvalues>
+          <attvalue for="0" value="5X6omFjxZh6ez8qFCnyz8b" />
+        </attvalues>
+      </node>
+      <node id="James Brown &amp; The Famous Flames" label="James Brown &amp; The Famous Flames">
+        <attvalues>
+          <attvalue for="0" value="32r72WOqqRO1DtSznId7Lr" />
+        </attvalues>
+      </node>
+      <node id="Cy Langston" label="Cy Langston">
+        <attvalues>
+          <attvalue for="0" value="454DZfyFjpl8NGssSb24Bw" />
+        </attvalues>
+      </node>
+      <node id="Graham Nash" label="Graham Nash">
+        <attvalues>
+          <attvalue for="0" value="2E6Roj0oQnJIm2BeXwDica" />
+        </attvalues>
+      </node>
+      <node id="David Crosby" label="David Crosby">
+        <attvalues>
+          <attvalue for="0" value="59zdhVoWxSoHMc74n098Re" />
+        </attvalues>
+      </node>
+      <node id="The J. Geils Band" label="The J. Geils Band">
+        <attvalues>
+          <attvalue for="0" value="69Mj3u4FTUrpyeGNSIaU6F" />
+        </attvalues>
+      </node>
+      <node id="Geoffrey Haslam" label="Geoffrey Haslam">
+        <attvalues>
+          <attvalue for="0" value="69z1xAHyyrdez0BQPQDEyi" />
+        </attvalues>
+      </node>
+      <node id="Diana Ross &amp; The Supremes" label="Diana Ross &amp; The Supremes">
+        <attvalues>
+          <attvalue for="0" value="0rXI0q8Cahq6numvPlloaq" />
+        </attvalues>
+      </node>
+      <node id="The Temptations" label="The Temptations">
+        <attvalues>
+          <attvalue for="0" value="3RwQ26hR2tJtA8F9p2n7jG" />
+        </attvalues>
+      </node>
+      <node id="America" label="America">
+        <attvalues>
+          <attvalue for="0" value="35U9lQaRWSQISxQAB94Meo" />
+        </attvalues>
+      </node>
+      <node id="George Martin" label="George Martin">
+        <attvalues>
+          <attvalue for="0" value="0tcbedGX7n5UHrMhVsGmIU" />
+        </attvalues>
+      </node>
+      <node id="Clifford Brown" label="Clifford Brown">
+        <attvalues>
+          <attvalue for="0" value="1HJHwWck1EY096ea2iPAHO" />
+        </attvalues>
+      </node>
+      <node id="Quincy Jones" label="Quincy Jones">
+        <attvalues>
+          <attvalue for="0" value="3rxIQc9kWT6Ueg4BhnOwRK" />
+        </attvalues>
+      </node>
+      <node id="The Brothers Johnson" label="The Brothers Johnson">
+        <attvalues>
+          <attvalue for="0" value="6h3rSZ8VLK7a5vXjEmhfuD" />
+        </attvalues>
+      </node>
+      <node id="Lester Flatt" label="Lester Flatt">
+        <attvalues>
+          <attvalue for="0" value="4UEb5ZsSyDWMAiBuOeKA6W" />
+        </attvalues>
+      </node>
+      <node id="Earl Scruggs" label="Earl Scruggs">
+        <attvalues>
+          <attvalue for="0" value="4NEA48c6ajydrRzCbyll3M" />
+        </attvalues>
+      </node>
+      <node id="Rufus &amp; Chaka Khan" label="Rufus &amp; Chaka Khan">
+        <attvalues>
+          <attvalue for="0" value="1YLsqPcFg1rj7VvhfwnDWm" />
+        </attvalues>
+      </node>
+      <node id="Johnny &amp; The Hurricanes" label="Johnny &amp; The Hurricanes">
+        <attvalues>
+          <attvalue for="0" value="5sgpmIi6mJNrm3fs3swCa7" />
+        </attvalues>
+      </node>
+      <node id="Johnny Paris" label="Johnny Paris">
+        <attvalues>
+          <attvalue for="0" value="3LzZD1ZCFsFRJfdRJRjaRl" />
+        </attvalues>
+      </node>
+      <node id="John Travolta" label="John Travolta">
+        <attvalues>
+          <attvalue for="0" value="4hKkEHkaqCsyxNxXEsszVH" />
+        </attvalues>
+      </node>
+      <node id="Olivia Newton-John" label="Olivia Newton-John">
+        <attvalues>
+          <attvalue for="0" value="4BoRxUdrcgbbq1rxJvvhg9" />
+        </attvalues>
+      </node>
+      <node id="The Blues Brothers" label="The Blues Brothers">
+        <attvalues>
+          <attvalue for="0" value="1cHFz6lrt7KAsBV8j2Ny1g" />
+        </attvalues>
+      </node>
+      <node id="Joe Gastwirt" label="Joe Gastwirt">
+        <attvalues>
+          <attvalue for="0" value="4IZpLucbO7nqXbdLL39Bts" />
+        </attvalues>
+      </node>
+      <node id="Dawn" label="Dawn">
+        <attvalues>
+          <attvalue for="0" value="1vjeJ712UQutRhn6WJI4sF" />
+        </attvalues>
+      </node>
+      <node id="Tony Orlando" label="Tony Orlando">
+        <attvalues>
+          <attvalue for="0" value="6PNZ6ZfwWLiUA2BrranFl3" />
+        </attvalues>
+      </node>
+      <node id="Earth, Wind &amp; Fire" label="Earth, Wind &amp; Fire">
+        <attvalues>
+          <attvalue for="0" value="4QQgXkCYTt3BlENzhyNETg" />
+        </attvalues>
+      </node>
+      <node id="The Emotions" label="The Emotions">
+        <attvalues>
+          <attvalue for="0" value="64CuUOOirKmdAYLQSfaOyr" />
+        </attvalues>
+      </node>
+      <node id="Nancy Sinatra" label="Nancy Sinatra">
+        <attvalues>
+          <attvalue for="0" value="3IZrrNonYELubLPJmqOci2" />
+        </attvalues>
+      </node>
+      <node id="Lee Hazlewood" label="Lee Hazlewood">
+        <attvalues>
+          <attvalue for="0" value="2aVHDjRHRM7dcFkGwahXLG" />
+        </attvalues>
+      </node>
+      <node id="The Doobie Brothers" label="The Doobie Brothers">
+        <attvalues>
+          <attvalue for="0" value="39T6qqI0jDtSWWioX8eGJz" />
+        </attvalues>
+      </node>
+      <node id="James Taylor" label="James Taylor">
+        <attvalues>
+          <attvalue for="0" value="0vn7UBvSQECKJm2817Yf1P" />
+        </attvalues>
+      </node>
+      <node id="Mark Lindsay" label="Mark Lindsay">
+        <attvalues>
+          <attvalue for="0" value="7kEOMdsEmZkTHgA4ibDz4h" />
+        </attvalues>
+      </node>
+      <node id="Blue Swede" label="Blue Swede">
+        <attvalues>
+          <attvalue for="0" value="0UpuH5U4nZ3UGGUJi0Zfbp" />
+        </attvalues>
+      </node>
+      <node id="Björn Skifs" label="Björn Skifs">
+        <attvalues>
+          <attvalue for="0" value="1Ek3VdZ8EPmcvgRIqnHlrF" />
+        </attvalues>
+      </node>
+      <node id="Desmond Dekker" label="Desmond Dekker">
+        <attvalues>
+          <attvalue for="0" value="1FcB6xMihhP9Hb6AdGVbWe" />
+        </attvalues>
+      </node>
+      <node id="The Aces" label="The Aces">
+        <attvalues>
+          <attvalue for="0" value="5l6EjGbVOK3ciVYP20II6p" />
+        </attvalues>
+      </node>
+      <node id="Kai Winding" label="Kai Winding">
+        <attvalues>
+          <attvalue for="0" value="1kYYk4lJ7ZWbyy3zDYOl6h" />
+        </attvalues>
+      </node>
+      <node id="Kenny Burrell" label="Kenny Burrell">
+        <attvalues>
+          <attvalue for="0" value="1sdyFmN4bVOcuFDpTVsxBB" />
+        </attvalues>
+      </node>
+      <node id="Tommy Boyce" label="Tommy Boyce">
+        <attvalues>
+          <attvalue for="0" value="6V92xGMFMr4619y6ZvEUFR" />
+        </attvalues>
+      </node>
+      <node id="Bobby Hart" label="Bobby Hart">
+        <attvalues>
+          <attvalue for="0" value="3PFXkVDrL495eCxfaMZd1F" />
+        </attvalues>
+      </node>
+      <node id="Lauren Wood" label="Lauren Wood">
+        <attvalues>
+          <attvalue for="0" value="67K9nZU3LXIwrDjxVOO9IG" />
+        </attvalues>
+      </node>
+      <node id="Novi" label="Novi">
+        <attvalues>
+          <attvalue for="0" value="7LfxHLrmQNqEggZvjaQL1A" />
+        </attvalues>
+      </node>
+      <node id="Ernie" label="Ernie">
+        <attvalues>
+          <attvalue for="0" value="1qkEx9YPevCOQhazUZK1bJ" />
+        </attvalues>
+      </node>
+      <node id="Samantha Sang" label="Samantha Sang">
+        <attvalues>
+          <attvalue for="0" value="1IvJtmPLbzpxDxfrw4rMFa" />
+        </attvalues>
+      </node>
+      <node id="Bee Gees" label="Bee Gees">
+        <attvalues>
+          <attvalue for="0" value="1LZEQNv7sE11VDY3SdxQeN" />
+        </attvalues>
+      </node>
+      <node id="Michael Jackson" label="Michael Jackson">
+        <attvalues>
+          <attvalue for="0" value="3fMbdgg4jU18AjLCKBhRSm" />
+        </attvalues>
+      </node>
+      <node id="Johnny Cash" label="Johnny Cash">
+        <attvalues>
+          <attvalue for="0" value="6kACVPfCOnqzgfEF5ryl0x" />
+        </attvalues>
+      </node>
+      <node id="June Carter Cash" label="June Carter Cash">
+        <attvalues>
+          <attvalue for="0" value="0ZnY6mQmgr2yZarjry68td" />
+        </attvalues>
+      </node>
+      <node id="Justin Hayward" label="Justin Hayward">
+        <attvalues>
+          <attvalue for="0" value="1C4kZs9XyNnm9HWFng6ZFH" />
+        </attvalues>
+      </node>
+      <node id="John Lodge" label="John Lodge">
+        <attvalues>
+          <attvalue for="0" value="5o1To8xDQy2hlFU4AoyRFf" />
+        </attvalues>
+      </node>
+      <node id="James Brown" label="James Brown">
+        <attvalues>
+          <attvalue for="0" value="7GaxyUddsPok8BuhxN6OUW" />
+        </attvalues>
+      </node>
+      <node id="The J.B.'s" label="The J.B.'s">
+        <attvalues>
+          <attvalue for="0" value="4lJHGi5dlJmWwFH0JKF6di" />
+        </attvalues>
+      </node>
+      <node id="Mary Wells" label="Mary Wells">
+        <attvalues>
+          <attvalue for="0" value="1cjZk1xXn3YCToNg3uJpA7" />
+        </attvalues>
+      </node>
+      <node id="Emmylou Harris" label="Emmylou Harris">
+        <attvalues>
+          <attvalue for="0" value="5s6TJEuHTr9GR894wc6VfP" />
+        </attvalues>
+      </node>
+      <node id="Herb Pedersen" label="Herb Pedersen">
+        <attvalues>
+          <attvalue for="0" value="6hPc7dyXAey1c44DfQkPqn" />
+        </attvalues>
+      </node>
+      <node id="Michael Nesmith" label="Michael Nesmith">
+        <attvalues>
+          <attvalue for="0" value="5Tic1bWAbmRoLrqaJ5SxU2" />
+        </attvalues>
+      </node>
+      <node id="The First National Band" label="The First National Band">
+        <attvalues>
+          <attvalue for="0" value="08xBftDfAD7CMC51uxUuZF" />
+        </attvalues>
+      </node>
+      <node id="Steve Harley" label="Steve Harley">
+        <attvalues>
+          <attvalue for="0" value="3dS8rLINyM7EYuMXryXJym" />
+        </attvalues>
+      </node>
+      <node id="Steve Harley &amp; Cockney Rebel" label="Steve Harley &amp; Cockney Rebel">
+        <attvalues>
+          <attvalue for="0" value="6EL5GD53kaaVgJCHgdtdLz" />
+        </attvalues>
+      </node>
+      <node id="Eric Burdon" label="Eric Burdon">
+        <attvalues>
+          <attvalue for="0" value="3miNucraVWk4hdVsIxn7id" />
+        </attvalues>
+      </node>
+      <node id="War" label="War">
+        <attvalues>
+          <attvalue for="0" value="3ICyfoySNDZqtBVmaBT84I" />
+        </attvalues>
+      </node>
+      <node id="Nickolas Ashford" label="Nickolas Ashford">
+        <attvalues>
+          <attvalue for="0" value="4X7jBy7ujZ6PSsHJPuCosZ" />
+        </attvalues>
+      </node>
+      <node id="Valerie Simpson" label="Valerie Simpson">
+        <attvalues>
+          <attvalue for="0" value="7Lc8gVjpJFGo4xMHE0Ax7r" />
+        </attvalues>
+      </node>
+      <node id="Neil Young" label="Neil Young">
+        <attvalues>
+          <attvalue for="0" value="6v8FB84lnmJs434UJf2Mrm" />
+        </attvalues>
+      </node>
+      <node id="Crazy Horse" label="Crazy Horse">
+        <attvalues>
+          <attvalue for="0" value="0oi7g8NUnlLh5tJvg2y5e3" />
+        </attvalues>
+      </node>
+      <node id="Chubby Jackson Orchestra" label="Chubby Jackson Orchestra">
+        <attvalues>
+          <attvalue for="0" value="7DCGqn557SyRObWXu7QqoP" />
+        </attvalues>
+      </node>
+      <node id="Ramsey Lewis" label="Ramsey Lewis">
+        <attvalues>
+          <attvalue for="0" value="7Kfrmups2Z3ncDQmNS5jRc" />
+        </attvalues>
+      </node>
+      <node id="Disco Tex &amp; His Sex-O-Lettes" label="Disco Tex &amp; His Sex-O-Lettes">
+        <attvalues>
+          <attvalue for="0" value="5bQs23jUnpzoeNdnndQ8gE" />
+        </attvalues>
+      </node>
+      <node id="Jerry Corbetta" label="Jerry Corbetta">
+        <attvalues>
+          <attvalue for="0" value="2EZbiVzmsTlzoB0h4qGbbK" />
+        </attvalues>
+      </node>
+      <node id="Peggy Lee" label="Peggy Lee">
+        <attvalues>
+          <attvalue for="0" value="602DnpaSXJB4b9DZrvxbDc" />
+        </attvalues>
+      </node>
+      <node id="Robert Norberg" label="Robert Norberg">
+        <attvalues>
+          <attvalue for="0" value="4iVTujtmxeDNd1XJX9cHLa" />
+        </attvalues>
+      </node>
+      <node id="Roy Orbison" label="Roy Orbison">
+        <attvalues>
+          <attvalue for="0" value="0JDkhL4rjiPNEp92jAgJnS" />
+        </attvalues>
+      </node>
+      <node id="Alex Orbison" label="Alex Orbison">
+        <attvalues>
+          <attvalue for="0" value="1fprDBeCKrHSz3TZDiML9a" />
+        </attvalues>
+      </node>
+      <node id="Chuck Turner" label="Chuck Turner">
+        <attvalues>
+          <attvalue for="0" value="6QDmPJhokG5dCAAyn7RWeP" />
+        </attvalues>
+      </node>
+      <node id="Paul Davis" label="Paul Davis">
+        <attvalues>
+          <attvalue for="0" value="6EJmqnuK0r6qiAevFFiNNR" />
+        </attvalues>
+      </node>
+      <node id="Susan Collins" label="Susan Collins">
+        <attvalues>
+          <attvalue for="0" value="15qGV9vVIXZZuHVI4FbXDw" />
+        </attvalues>
+      </node>
+      <node id="Gloria Lynne" label="Gloria Lynne">
+        <attvalues>
+          <attvalue for="0" value="2XThtYxaIaPS5o9soX7kAu" />
+        </attvalues>
+      </node>
+      <node id="Marty Paich" label="Marty Paich">
+        <attvalues>
+          <attvalue for="0" value="69OOiGDvj0o9QQ184tqc9R" />
+        </attvalues>
+      </node>
+      <node id="The Five Stairsteps" label="The Five Stairsteps">
+        <attvalues>
+          <attvalue for="0" value="3Inrg8cs8oc4q8oPES4a6S" />
+        </attvalues>
+      </node>
+      <node id="Cubie Burke" label="Cubie Burke">
+        <attvalues>
+          <attvalue for="0" value="4DwdnqIE4opZBfHmmLJOeC" />
+        </attvalues>
+      </node>
+      <node id="Andy Williams" label="Andy Williams">
+        <attvalues>
+          <attvalue for="0" value="4sj6D0zlMOl25nprDJBiU9" />
+        </attvalues>
+      </node>
+      <node id="The St. Charles Borromeo Choir" label="The St. Charles Borromeo Choir">
+        <attvalues>
+          <attvalue for="0" value="0NVTeGmwd2WQm5r6DGHV2Y" />
+        </attvalues>
+      </node>
+      <node id="Slave" label="Slave">
+        <attvalues>
+          <attvalue for="0" value="5mtKpqeeaFavW15yIX4h5e" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Douglas" label="Jimmy Douglas">
+        <attvalues>
+          <attvalue for="0" value="2kLF5OqO9KpxWZl9bPy8hj" />
+        </attvalues>
+      </node>
+      <node id="B.B. King" label="B.B. King">
+        <attvalues>
+          <attvalue for="0" value="5xLSa7l4IV1gsQfhAMvl0U" />
+        </attvalues>
+      </node>
+      <node id="Leon Russell" label="Leon Russell">
+        <attvalues>
+          <attvalue for="0" value="6r1Xmz7YUD4z0VRUoGm8XN" />
+        </attvalues>
+      </node>
+      <node id="Foghat" label="Foghat">
+        <attvalues>
+          <attvalue for="0" value="6x33CmZWo2Ve4hxYl2Craq" />
+        </attvalues>
+      </node>
+      <node id="Don Berman" label="Don Berman">
+        <attvalues>
+          <attvalue for="0" value="7fsRdlcIqvbGBlknU3wif0" />
+        </attvalues>
+      </node>
+      <node id="Harold Melvin &amp; The Blue Notes" label="Harold Melvin &amp; The Blue Notes">
+        <attvalues>
+          <attvalue for="0" value="438JBZR1AR0l04AzcYW9gy" />
+        </attvalues>
+      </node>
+      <node id="Teddy Pendergrass" label="Teddy Pendergrass">
+        <attvalues>
+          <attvalue for="0" value="68kACMx6A3D2BYiO056MeQ" />
+        </attvalues>
+      </node>
+      <node id="Robert Gordon" label="Robert Gordon">
+        <attvalues>
+          <attvalue for="0" value="1coQ4GcxuazfjZ0MP9JnBF" />
+        </attvalues>
+      </node>
+      <node id="Link Wray" label="Link Wray">
+        <attvalues>
+          <attvalue for="0" value="2vQavlZtDA660mnZotYIto" />
+        </attvalues>
+      </node>
+      <node id="Mike Hutchinson" label="Mike Hutchinson">
+        <attvalues>
+          <attvalue for="0" value="3Scu4LRF3WrVbZYdDHz3Og" />
+        </attvalues>
+      </node>
+      <node id="Twennynine" label="Twennynine">
+        <attvalues>
+          <attvalue for="0" value="4lrBQQ6NR1pj1nSzsPs7sI" />
+        </attvalues>
+      </node>
+      <node id="Lenny White" label="Lenny White">
+        <attvalues>
+          <attvalue for="0" value="478WAnkTtQach00La2gvxR" />
+        </attvalues>
+      </node>
+      <node id="Johnny Burnette" label="Johnny Burnette">
+        <attvalues>
+          <attvalue for="0" value="3PrFCybHMqrcPls31JxoIl" />
+        </attvalues>
+      </node>
+      <node id="The Johnny Mann Singers" label="The Johnny Mann Singers">
+        <attvalues>
+          <attvalue for="0" value="26fpZeMJX2vN9xuGq70yve" />
+        </attvalues>
+      </node>
+      <node id="Boots Randolph" label="Boots Randolph">
+        <attvalues>
+          <attvalue for="0" value="3c8BXo73tAg7XZiNHJugZm" />
+        </attvalues>
+      </node>
+      <node id="The Knightsbridge Strings &amp; Voices" label="The Knightsbridge Strings &amp; Voices">
+        <attvalues>
+          <attvalue for="0" value="2ZCQS51qoA202pb6cvky7u" />
+        </attvalues>
+      </node>
+      <node id="Eric Clapton" label="Eric Clapton">
+        <attvalues>
+          <attvalue for="0" value="6PAt558ZEZl0DmdXlnjMgD" />
+        </attvalues>
+      </node>
+      <node id="Jon Astley" label="Jon Astley">
+        <attvalues>
+          <attvalue for="0" value="1I8A3N4AgFS3geeMC8uh8I" />
+        </attvalues>
+      </node>
+      <node id="Andy Macpherson" label="Andy Macpherson">
+        <attvalues>
+          <attvalue for="0" value="3eLgh6OisMjiR9tWPyZCp5" />
+        </attvalues>
+      </node>
+      <node id="Paul Vance" label="Paul Vance">
+        <attvalues>
+          <attvalue for="0" value="0YG0X6e9kT1sVtKLbLDB6m" />
+        </attvalues>
+      </node>
+      <node id="Lee Pockriss" label="Lee Pockriss">
+        <attvalues>
+          <attvalue for="0" value="7nyl3ICuykcXcZzhAEFhq3" />
+        </attvalues>
+      </node>
+      <node id="Andre Kostelanetz &amp; His Orchestra" label="Andre Kostelanetz &amp; His Orchestra">
+        <attvalues>
+          <attvalue for="0" value="0O834tNw0PiiuYgj24yq0b" />
+        </attvalues>
+      </node>
+      <node id="Doris Day" label="Doris Day">
+        <attvalues>
+          <attvalue for="0" value="3ESG6pj6a0LvUKklENalT6" />
+        </attvalues>
+      </node>
+      <node id="Frank DeVol &amp; His Orchestra" label="Frank DeVol &amp; His Orchestra">
+        <attvalues>
+          <attvalue for="0" value="2N0Yx2ISFxGV0yt7xffcnd" />
+        </attvalues>
+      </node>
+      <node id="Count Basie Orchestra" label="Count Basie Orchestra">
+        <attvalues>
+          <attvalue for="0" value="2Hn9fch2OLB5jZuEAVjTCe" />
+        </attvalues>
+      </node>
+      <node id="Joe Williams" label="Joe Williams">
+        <attvalues>
+          <attvalue for="0" value="7FMGtucexJvUxVz7scydEL" />
+        </attvalues>
+      </node>
+      <node id="Lambert, Hendricks &amp; Ross" label="Lambert, Hendricks &amp; Ross">
+        <attvalues>
+          <attvalue for="0" value="5XILwCCPqHHh1JRnMfzblg" />
+        </attvalues>
+      </node>
+      <node id="Dee Dee Warwick" label="Dee Dee Warwick">
+        <attvalues>
+          <attvalue for="0" value="3KeTziLAcJFEnbhfIMRh5w" />
+        </attvalues>
+      </node>
+      <node id="The Dixie Flyers" label="The Dixie Flyers">
+        <attvalues>
+          <attvalue for="0" value="7dv6WnCIPKA7Xuu1EwINSc" />
+        </attvalues>
+      </node>
+      <node id="MFSB" label="MFSB">
+        <attvalues>
+          <attvalue for="0" value="2mknvtcck8i82nKxDPDibv" />
+        </attvalues>
+      </node>
+      <node id="The Three Degrees" label="The Three Degrees">
+        <attvalues>
+          <attvalue for="0" value="2zpFG5cvw00QmrYTUsjApa" />
+        </attvalues>
+      </node>
+      <node id="Ray Parker Jr." label="Ray Parker Jr.">
+        <attvalues>
+          <attvalue for="0" value="0NyzfcGDZZ6GM25EBG9BYK" />
+        </attvalues>
+      </node>
+      <node id="Raydio" label="Raydio">
+        <attvalues>
+          <attvalue for="0" value="1VQ7baxc9Okx2YuRnpKMMR" />
+        </attvalues>
+      </node>
+      <node id="Kenny Loggins" label="Kenny Loggins">
+        <attvalues>
+          <attvalue for="0" value="3Y3xIwWyq5wnNHPp5gPjOW" />
+        </attvalues>
+      </node>
+      <node id="Stevie Nicks" label="Stevie Nicks">
+        <attvalues>
+          <attvalue for="0" value="7crPfGd2k81ekOoSqQKWWz" />
+        </attvalues>
+      </node>
+      <node id="Bing Crosby" label="Bing Crosby">
+        <attvalues>
+          <attvalue for="0" value="6ZjFtWeHP9XN7FeKSUe80S" />
+        </attvalues>
+      </node>
+      <node id="Ken Darby Singers" label="Ken Darby Singers">
+        <attvalues>
+          <attvalue for="0" value="69UfPJgUmFFAVT740qGVZi" />
+        </attvalues>
+      </node>
+      <node id="John Scott Trotter &amp; His Orchestra" label="John Scott Trotter &amp; His Orchestra">
+        <attvalues>
+          <attvalue for="0" value="735L650pvygCZZlPMyHqsN" />
+        </attvalues>
+      </node>
+      <node id="Grin" label="Grin">
+        <attvalues>
+          <attvalue for="0" value="2zsUy4JbxEb4oNdBfrfB3V" />
+        </attvalues>
+      </node>
+      <node id="Nils Lofgren" label="Nils Lofgren">
+        <attvalues>
+          <attvalue for="0" value="2TpAfGX0XNikAg5QjrbbvE" />
+        </attvalues>
+      </node>
+      <node id="Steppenwolf" label="Steppenwolf">
+        <attvalues>
+          <attvalue for="0" value="1WRM9i067hd2ujxxi8FI3m" />
+        </attvalues>
+      </node>
+      <node id="John Kay" label="John Kay">
+        <attvalues>
+          <attvalue for="0" value="3IJv5pAua8t2Q5FP79TXOt" />
+        </attvalues>
+      </node>
+      <node id="Eric Burdon &amp; War" label="Eric Burdon &amp; War">
+        <attvalues>
+          <attvalue for="0" value="0kfkq32zEuXK538yWZlCOE" />
+        </attvalues>
+      </node>
+      <node id="Sharone Scott" label="Sharone Scott">
+        <attvalues>
+          <attvalue for="0" value="3jJZVwAtb1aEVgQ1aIJjFj" />
+        </attvalues>
+      </node>
+      <node id="The Band" label="The Band">
+        <attvalues>
+          <attvalue for="0" value="4vpDg7Y7fU982Ds30zawDA" />
+        </attvalues>
+      </node>
+      <node id="Todd Rundgren" label="Todd Rundgren">
+        <attvalues>
+          <attvalue for="0" value="0Lpr5wXzWLtDWm1SjNbpPb" />
+        </attvalues>
+      </node>
+      <node id="Jimmy Dean" label="Jimmy Dean">
+        <attvalues>
+          <attvalue for="0" value="1RaDKTFXuy0qA8YV1h9SwC" />
+        </attvalues>
+      </node>
+      <node id="Vic Anesini" label="Vic Anesini">
+        <attvalues>
+          <attvalue for="0" value="4i6ElBxzNwJjCk7licFi5A" />
+        </attvalues>
+      </node>
+      <node id="Norman Connors" label="Norman Connors">
+        <attvalues>
+          <attvalue for="0" value="54bbmw5qZiMf23TTmm6ojR" />
+        </attvalues>
+      </node>
+      <node id="Michael Henderson" label="Michael Henderson">
+        <attvalues>
+          <attvalue for="0" value="6KzAnKswHOUCX8xiEudD7K" />
+        </attvalues>
+      </node>
+      <node id="Marilyn McCoo" label="Marilyn McCoo">
+        <attvalues>
+          <attvalue for="0" value="2jirMwr4cHJzjtx8vDX5IO" />
+        </attvalues>
+      </node>
+      <node id="Billy Davis Jr." label="Billy Davis Jr.">
+        <attvalues>
+          <attvalue for="0" value="090k1Fxa70NDQvkXmQBUfW" />
+        </attvalues>
+      </node>
+      <node id="Deniece Williams" label="Deniece Williams">
+        <attvalues>
+          <attvalue for="0" value="5jNGQ7VOU87x5402JjhTtd" />
+        </attvalues>
+      </node>
+      <node id="Roberta Flack" label="Roberta Flack">
+        <attvalues>
+          <attvalue for="0" value="0W498bDDNlJIrYMKXdpLHA" />
+        </attvalues>
+      </node>
+      <node id="Donny Hathaway" label="Donny Hathaway">
+        <attvalues>
+          <attvalue for="0" value="0HU0U9kdXEHZVxUNbuQe8S" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="Dinah Washington" target="Brook Benton" weight="2">
+        <attvalues>
+          <attvalue for="1" value="A Rockin' Good Way (To Mess Around And Fall In Love)" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Dinah Washington" target="Clifford Brown" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Dream" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Dinah Washington" target="Chubby Jackson Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="I Want To Be Loved" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Carlos Santana" target="Buddy Miles" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Evil Ways" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Diana Ross" target="Marvin Gaye" weight="3">
+        <attvalues>
+          <attvalue for="1" value="My Mistake (Was To Love You)" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Diana Ross" target="Michael Jackson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Ease On Down The Road" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Marvin Gaye" target="Tammi Terrell" weight="9">
+        <attvalues>
+          <attvalue for="1" value="Keep On Lovin' Me Honey" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Marvin Gaye" target="Kim Weston" weight="2">
+        <attvalues>
+          <attvalue for="1" value="It Takes Two" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Marvin Gaye" target="Mary Wells" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Once Upon A Time" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="Marvin Hamlisch" target="Carly Simon" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Nobody Does It Better" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="Carly Simon" target="James Taylor" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Mockingbird" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="Otis Redding" target="Carla Thomas" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Knock On Wood" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Ella Fitzgerald" target="The Paul Smith Quartet" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Mack The Knife" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="M" target="Robin Scott" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Pop Muzik" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="The Dawn" target="Tony Orlando &amp; Dawn" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Candida" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Patsy Cline" target="The Jordanaires" weight="3">
+        <attvalues>
+          <attvalue for="1" value="I Fall To Pieces" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Kris Kristofferson" target="Rita Coolidge" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Loving Arms" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Ian Lloyd" target="Stories" weight="1">
+        <attvalues>
+          <attvalue for="1" value="If It Feels Good, Do It" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Ambrosia" target="Alan Parsons" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Holdin' On To Yesterday" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Rufus" target="Chaka Khan" weight="6">
+        <attvalues>
+          <attvalue for="1" value="Hollywood" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Chaka Khan" target="Rufus &amp; Chaka Khan" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Stay" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Chaka Khan" target="Quincy Jones" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Chaka Khan" target="Nickolas Ashford" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Chaka Khan" target="Valerie Simpson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Them" target="Van Morrison" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Mystic Eyes" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Johnny Mathis" target="Orchestra under the direction of Glenn Osser" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Small World" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Johnny Mathis" target="Deniece Williams" weight="1">
+        <attvalues>
+          <attvalue for="1" value="You're All I Need To Get By" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Five Flights Up" target="J.B. Bingham" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Do What You Wanna Do" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Ashford &amp; Simpson" target="James Simpson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Found A Cure" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Ashford &amp; Simpson" target="Mike Hutchinson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Don't Cost You Nothing" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Don Gardner" target="Dee Dee Ford" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Don't You Worry" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Etta James" target="Harvey Fuqua" weight="2">
+        <attvalues>
+          <attvalue for="1" value="If I Can't Have You" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Cliff Richard" target="The Shadows" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Lucky Lips" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Paul Revere &amp; The Raiders" target="The Raiders" weight="4">
+        <attvalues>
+          <attvalue for="1" value="Indian Reservation (The Lament Of The Cherokee Reservation Indian)" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Paul Revere &amp; The Raiders" target="Mark Lindsay" weight="5">
+        <attvalues>
+          <attvalue for="1" value="Him Or Me - What's It Gonna Be?" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Willie Henderson And The Soul Explosions" target="Willie Henderson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Funky Chicken (Part 1)" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Willie Henderson And The Soul Explosions" target="The Soul Explosions" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Funky Chicken (Part 1)" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Willie Henderson" target="The Soul Explosions" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Funky Chicken (Part 1)" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="The Supremes" target="Four Tops" weight="2">
+        <attvalues>
+          <attvalue for="1" value="River Deep - Mountain High" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Big Brother &amp; The Holding Company" target="Janis Joplin" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Piece Of My Heart" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="The Miracles" target="Billy Griffin" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Do It Baby" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Stone Poneys" target="Linda Ronstadt" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Different Drum" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="The Whispers" target="Wallace “Scotty” Scott" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Make It With You" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="James Brown &amp; The Famous Flames" target="Cy Langston" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Night Train" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="Graham Nash" target="David Crosby" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Immigration Man" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="The J. Geils Band" target="Geoffrey Haslam" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Looking For A Love" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Diana Ross &amp; The Supremes" target="The Temptations" weight="3">
+        <attvalues>
+          <attvalue for="1" value="I'll Try Something New" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="America" target="George Martin" weight="6">
+        <attvalues>
+          <attvalue for="1" value="I Need You" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Quincy Jones" target="The Brothers Johnson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Is It Love That We're Missin'" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Quincy Jones" target="Nickolas Ashford" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Quincy Jones" target="Valerie Simpson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Lester Flatt" target="Earl Scruggs" weight="1">
+        <attvalues>
+          <attvalue for="1" value="The Ballad Of Jed Clampett" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Johnny &amp; The Hurricanes" target="Johnny Paris" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Red River Rock" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="John Travolta" target="Olivia Newton-John" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Summer Nights" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="The Blues Brothers" target="Joe Gastwirt" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Rubber Biscuit" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Dawn" target="Tony Orlando" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Say, Has Anybody Seen My Sweet Gypsy Rose" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Earth, Wind &amp; Fire" target="The Emotions" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Boogie Wonderland" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Earth, Wind &amp; Fire" target="Ramsey Lewis" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Hot Dawgit" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Nancy Sinatra" target="Lee Hazlewood" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Some Velvet Morning" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="The Doobie Brothers" target="James Taylor" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Takin' It To The Streets" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Blue Swede" target="Björn Skifs" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Hooked On A Feeling" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Desmond Dekker" target="The Aces" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Israelites" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Kai Winding" target="Kenny Burrell" weight="1">
+        <attvalues>
+          <attvalue for="1" value="More" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Tommy Boyce" target="Bobby Hart" weight="4">
+        <attvalues>
+          <attvalue for="1" value="Alice Long (You're Still My Favorite Girlfriend)" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Lauren Wood" target="Novi" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Please Don't Leave" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Lauren Wood" target="Ernie" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Please Don't Leave" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Novi" target="Ernie" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Please Don't Leave" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="Samantha Sang" target="Bee Gees" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Emotion" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Johnny Cash" target="June Carter Cash" weight="2">
+        <attvalues>
+          <attvalue for="1" value="If I Were A Carpenter" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Justin Hayward" target="John Lodge" weight="2">
+        <attvalues>
+          <attvalue for="1" value="I Dreamed Last Night" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="James Brown" target="The J.B.'s" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Down And Out In New York City" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Emmylou Harris" target="Herb Pedersen" weight="1">
+        <attvalues>
+          <attvalue for="1" value="If I Could Only Win Your Love" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Michael Nesmith" target="The First National Band" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Joanne" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="Steve Harley" target="Steve Harley &amp; Cockney Rebel" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Make Me Smile (Come Up And See Me)" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="Eric Burdon" target="War" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Spill The Wine" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="Nickolas Ashford" target="Valerie Simpson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stuff Like That" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Neil Young" target="Crazy Horse" weight="2">
+        <attvalues>
+          <attvalue for="1" value="Hey Hey, My My (Into The Black)" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Disco Tex &amp; His Sex-O-Lettes" target="Jerry Corbetta" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Jam Band" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Peggy Lee" target="Robert Norberg" weight="1">
+        <attvalues>
+          <attvalue for="1" value="My Man" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Roy Orbison" target="Alex Orbison" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Cry Softly Lonely One" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Roy Orbison" target="Chuck Turner" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Cry Softly Lonely One" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Alex Orbison" target="Chuck Turner" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Cry Softly Lonely One" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Paul Davis" target="Susan Collins" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Darlin'" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Gloria Lynne" target="Marty Paich" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Don't Take Your Love From Me" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="The Five Stairsteps" target="Cubie Burke" weight="1">
+        <attvalues>
+          <attvalue for="1" value="A Million To One" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Andy Williams" target="The St. Charles Borromeo Choir" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Battle Hymn Of The Republic" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="Slave" target="Jimmy Douglas" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Slide" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="B.B. King" target="Leon Russell" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Ask Me No Questions" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Foghat" target="Don Berman" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Stone Blue" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Harold Melvin &amp; The Blue Notes" target="Teddy Pendergrass" weight="3">
+        <attvalues>
+          <attvalue for="1" value="Satisfaction Guaranteed (Or Take Your Love Back)" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Robert Gordon" target="Link Wray" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Red Hot" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Twennynine" target="Lenny White" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Peanut Butter" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Johnny Burnette" target="The Johnny Mann Singers" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Big Big World" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Boots Randolph" target="The Knightsbridge Strings &amp; Voices" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Temptation" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Eric Clapton" target="Jon Astley" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Bell Bottom Blues" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Eric Clapton" target="Andy Macpherson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Bell Bottom Blues" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Jon Astley" target="Andy Macpherson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Bell Bottom Blues" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Paul Vance" target="Lee Pockriss" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Dommage, Dommage (Too Bad, Too Bad)" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Paul Vance" target="Andre Kostelanetz &amp; His Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Dommage, Dommage (Too Bad, Too Bad)" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Lee Pockriss" target="Andre Kostelanetz &amp; His Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Dommage, Dommage (Too Bad, Too Bad)" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Doris Day" target="Frank DeVol &amp; His Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Lover Come Back" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Count Basie Orchestra" target="Joe Williams" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Going To Chicago Blues" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Count Basie Orchestra" target="Lambert, Hendricks &amp; Ross" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Going To Chicago Blues" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Joe Williams" target="Lambert, Hendricks &amp; Ross" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Going To Chicago Blues" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Dee Dee Warwick" target="The Dixie Flyers" weight="1">
+        <attvalues>
+          <attvalue for="1" value="She Didn't Know (She Kept On Talking)" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="MFSB" target="The Three Degrees" weight="1">
+        <attvalues>
+          <attvalue for="1" value="TSOP (The Sound Of Philadelphia)" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Ray Parker Jr." target="Raydio" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Two Places At The Same Time" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Kenny Loggins" target="Stevie Nicks" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Whenever I Call You &quot;Friend&quot;" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Bing Crosby" target="Ken Darby Singers" weight="1">
+        <attvalues>
+          <attvalue for="1" value="White Christmas" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Bing Crosby" target="John Scott Trotter &amp; His Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="White Christmas" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Ken Darby Singers" target="John Scott Trotter &amp; His Orchestra" weight="1">
+        <attvalues>
+          <attvalue for="1" value="White Christmas" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Grin" target="Nils Lofgren" weight="1">
+        <attvalues>
+          <attvalue for="1" value="White Lies" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Steppenwolf" target="John Kay" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Who Needs Ya" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Eric Burdon &amp; War" target="Sharone Scott" weight="1">
+        <attvalues>
+          <attvalue for="1" value="They Can't Take Away Our Music" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="The Band" target="Todd Rundgren" weight="1">
+        <attvalues>
+          <attvalue for="1" value="Time To Kill" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Jimmy Dean" target="Vic Anesini" weight="1">
+        <attvalues>
+          <attvalue for="1" value="To A Sleeping Beauty" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Norman Connors" target="Michael Henderson" weight="1">
+        <attvalues>
+          <attvalue for="1" value="You Are My Starship" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Marilyn McCoo" target="Billy Davis Jr." weight="1">
+        <attvalues>
+          <attvalue for="1" value="You Don't Have To Be A Star (To Be In My Show)" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Roberta Flack" target="Donny Hathaway" weight="1">
+        <attvalues>
+          <attvalue for="1" value="You've Lost That Lovin' Feelin'" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
